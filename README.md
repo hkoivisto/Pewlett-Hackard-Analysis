@@ -16,4 +16,4 @@ This repository analyzes the upcoming impact of retirment eligible employees at 
 Significantly more employees are in the retirement age range than in the mentorship age range. Pewlett-Hackard will need to begin fast-tracked mentorship programs and consider a hiring push to fill the anticipated vacancies.
 
    - There will be approxiamtely 33,118 open positions due to the upcoming retirements.
-   - There will be more than enough senior staff to mentor the youger group of employees.
+   - There will be more than enough senior staff to mentor the younger group of employees.
